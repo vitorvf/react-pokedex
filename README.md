@@ -21,8 +21,6 @@ Para a realização desse projeto foi utilizado as seguintes tecnologias/linguag
 - [Bootstrap](https://getbootstrap.com) 
 
 
-![img1](https://user-images.githubusercontent.com/47065330/112674397-a6a9d380-8e44-11eb-8e8d-f656c9162849.png)
-
 
 ## Licença
 Copyright © 2021 Vitor Ferreira.
